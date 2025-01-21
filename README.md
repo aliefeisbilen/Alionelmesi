@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
@@ -89,8 +89,8 @@ color: #FFD700;
  }
 li{
 position: absolute;
-left: 940px;
-top: 120px;
+left: 900px;
+top: 100px;
 font-size: 20px;
 color: #FFD700;
  }
