@@ -1,9 +1,12 @@
 
 <!DOCTYPE html>
-<html>
+
+<html lang="tr">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Youssef En-Nesyri Özür Formu</title>
-  <link rel="icon" href="C:\Users\isbil\OneDrive\Resimler\Fenerbahçe_SK.png.webp" >
+  <link rel="icon" href="https://github.com/alionelmesi/test2.html/blob/main/Fenerbah%C3%A7e_SK.jpg?raw=true">
 <style>
 body { 
 background-color: #0F052C;
@@ -159,13 +162,13 @@ display: none; }
 <label> <input type="checkbox" class="checkbox3" name="option3">
 </label>
 <span id="error-message" class="error">İşaretle sikmim!</span>
-<img id="error-image" class="error-image" src="C:\Users\isbil\OneDrive\Resimler\sinirli emoji.jpg" alt="Error Icon">
+<img id="error-image" class="error-image" src="https://github.com/alionelmesi/test2.html/blob/main/sinirli%20emoji.jpg?raw=true" alt="Error Icon">
 <button type="submit">Gönder</button>
 </form>
-  </div>
-  <img src="C:\Users\isbil\OneDrive\Resimler\GVNYZhnWgAEE2S4.jpg">
-  <img src="C:\Users\isbil\OneDrive\Resimler\imza.png" class="Resim">
-  <img src="C:\Users\isbil\OneDrive\Resimler\fenerbahçe 2024 kadro.jpg" class="kadro">
+  <img src="https://github.com/alionelmesi/test2.html/blob/main/GVNYZhnWgAEE2S4.jpg?raw=true">
+  <img src="https://github.com/alionelmesi/test2.html/blob/main/imza.png?raw=true" class="Resim">
+  <img src="https://github.com/alionelmesi/test2.html/blob/main/fenerbah%C3%A7e%202024%20kadro.jpg?raw=true" class="kadro">
+
 <h2>Youssef En-Nesyri Özür Formu.</h2> 
 <ul>  
 <li>En-Nesyri hakkında yersiz kuyu şakaları yaptım.<br>
