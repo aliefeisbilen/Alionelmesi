@@ -58,7 +58,7 @@ border-radius: 10px;
 h3 {
 position: absolute;
 left: 75px;
-top: 320px;
+top: 335px;
 color: #FFD700;
 font-size: 22px;
 } 
@@ -74,7 +74,7 @@ font-size: 22px;
 .yazı{
 position: absolute;
 left: 70px;
-top: 380px;
+top: 410px;
 font-style: unset;
 font-size: 22px;
 
@@ -82,15 +82,15 @@ font-size: 22px;
 }
  h2{
 position: absolute;
-left: 880px;
-top: 40px;
+left: 950px;
+top: 55px;
 font-size: 40px;
 color: #FFD700;
  }
 li{
 position: absolute;
-left: 910px;
-top: 110px;
+left: 925px;
+top: 125px;
 font-size: 20px;
 color: #FFD700;
  }
@@ -113,7 +113,7 @@ top: 191px;
 }
 button{
 position: absolute;
-left: 1305px;
+left: 1295px;
 top: 220px;
 }
 
