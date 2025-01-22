@@ -58,7 +58,7 @@ border-radius: 10px;
 h3 {
 position: absolute;
 left: 75px;
-top: 310px;
+top: 320px;
 color: #FFD700;
 font-size: 22px;
 } 
@@ -74,7 +74,7 @@ font-size: 22px;
 .yazı{
 position: absolute;
 left: 70px;
-top: 360px;
+top: 380px;
 font-style: unset;
 font-size: 22px;
 
@@ -89,8 +89,8 @@ color: #FFD700;
  }
 li{
 position: absolute;
-left: 900px;
-top: 100px;
+left: 910px;
+top: 110px;
 font-size: 20px;
 color: #FFD700;
  }
