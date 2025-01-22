@@ -154,30 +154,53 @@ display: none; }
 </head>
 <body>
   <form onsubmit="validateForm(event)">
+    <div>
 <label> <input type="checkbox" class="checkbox1" name="option1">
-</label>
+</label> </div>
+    <div>
 <label> <input type="checkbox" class="checkbox2" name="option2">
-</label>
+</label> </div>
+    <div>
 <label> <input type="checkbox" class="checkbox3" name="option3">
-</label>
+</label> </div>
+    <div>
 <span id="error-message" class="error">İşaretle sikmim!</span>
+    </div>
+    <div>
 <img id="error-image" class="error-image" src="https://github.com/alionelmesi/test2.html/blob/main/sinirli%20emoji.jpg?raw=true" alt="Error Icon">
-<button type="submit">Gönder</button>
-</form>
+    </div>
+    <div>
+      <button type="submit">Gönder</button>
+    </div>
+    </form>
+ <div>
   <img src="https://github.com/alionelmesi/test2.html/blob/main/GVNYZhnWgAEE2S4.jpg?raw=true">
+ </div>
+   <div>
   <img src="https://github.com/alionelmesi/test2.html/blob/main/imza.png?raw=true" class="Resim">
+   </div>
+     <div>
   <img src="https://github.com/alionelmesi/test2.html/blob/main/fenerbah%C3%A7e%202024%20kadro.jpg?raw=true" class="kadro">
-
+     </div>
+  <div>
 <h2>Youssef En-Nesyri Özür Formu.</h2> 
+</div>
+  <div>
 <ul>  
 <li>En-Nesyri hakkında yersiz kuyu şakaları yaptım.<br>
     Karaktersiz Batshuayi'yi kendisine tercih ettim.<br>
     Kendisi hakkında çöpe atılmış 20 Milyon dedim.</li>
 </ul>
+</div>
+<div>
 <h3>Youssef En-Nesyri'den Özür Dilerim.</h3>
+</div>
+  <div>
 <p id="para1">Ali Efe İşbilen</p>
+</div>
+<div>
 <p class="yazı">Bir daha seni eleştirmeyeceğim ve seni eleştirenlere karşı<br>
   seni savunacağım.</p>
-
+</div>
 </body>
 </html>
